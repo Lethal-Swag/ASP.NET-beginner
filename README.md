@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 # ASP.NET-beginner#In this beginner project of ASP technology I used a bootstrap and javascript to make interface well
 
 #Basiclly it covers all section which is necessary[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Dto every fresher and i.e connecting database, User-Interface,
 #back-end coding section which i have done with brute force method coding and its mean no need to
 #prior knowledge to do this and thats it
 # please contribute to it.
+=======
+# ASP.NET-beginner
+#In this beginner project of ASP technology I used a bootstrap and javascript to make interface well
+>>>>>>> 812c703a2c6919bf4fa29f743411b4519a79b1e0
